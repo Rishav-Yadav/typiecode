@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+.btn {
+  background-color: orange;
+}
+div.to-do {
+  background-color: #f4f4f4;
+  border: 2px solid #333;
+  margin: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+div.done {
+  background-color: green !important;
+  color: yellow;
+}
+.container {
+  margin: 1rem auto;
+  max-width: 500px;
+}
